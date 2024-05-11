@@ -52,7 +52,7 @@
    ```
 
 7. После успешного завершения развертывания Terraform выведет информацию о созданных ресурсах.
-   ![Вывод консоли](https://disk.yandex.ru/d/_mmyhPu6OXtWdA)
+   https://disk.yandex.ru/d/_mmyhPu6OXtWdA
 
 
 ## Удаление инфраструктуры
